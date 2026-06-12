@@ -1,6 +1,4 @@
 
-
-// Code your design here
 module apb_slave #(
     parameter NUM_REGS    = 8,
     parameter WAIT_CYCLES = 2
